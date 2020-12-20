@@ -1,0 +1,19 @@
+.Table-Row{
+    display: flex;
+    justify-content: space-between;
+}
+.Main-Table-Pagination{
+    /* display: flex;
+    justify-content: space-between; */
+}
+.paginationButtonPanel{
+    display: flex;
+    justify-content: space-between;
+}
+.paginationCntPanel{
+    display: flex;
+    justify-content: space-between;
+}
+.paginationBtn{
+    
+}

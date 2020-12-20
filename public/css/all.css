@@ -1,0 +1,42 @@
+.Table-Row{
+    display: flex;
+    justify-content: space-between;
+}
+.Main-Table{
+    border:1px solid grey;
+}
+.FirstItem{
+    border-left: 0px solid grey;
+}
+.Table-Item{
+    width: 25%;
+    border-left: 1px solid #bec0c0;
+    padding: 10px;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+}
+.FilterPan{
+    background-color: #ecf0f1;
+    padding: 10px 40px 10px 40px;
+}
+.FilterHeader{
+    margin:5px 0px 5px 0px;
+}
+.FilterSelect{
+    width: 100%;
+    border: 1px solid #968b8b;
+    margin:5px 0px 5px 0px;
+}
+.btn-select{
+    background-color: #dfdfdf;
+    border:1px solid #1a1a1a;
+}
+.circleBtn{
+    border-radius: 50%;
+    /* border: 1px solid #bfbfbf; */
+}
+.btn-PgCnt{
+    border: 1px solid #1a1a1a;
+}
